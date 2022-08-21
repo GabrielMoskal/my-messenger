@@ -9,6 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <name>my-messenger parent project</name>
 
+    <properties>
+        <java.version>17</java.version>
+    </properties>
+
     <modules>
 
     </modules>
